@@ -1,0 +1,1 @@
+This application made for uploading files using streams in front-end and back-end to accelerate the uploading process
