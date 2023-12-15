@@ -1,0 +1,20 @@
+.container {
+height: 100vh;
+}
+
+.row {
+    height: 100vh;
+}
+
+#right {
+background: url("../../assets/pexels-jonathan-borba-19014279.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+place-content: center;
+}
+
+#left {
+display: grid;
+place-content: center;
+}
